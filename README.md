@@ -3,6 +3,7 @@
 <h3 align="center">Sou um desenvolvedor full stack em inicio de carreira, com maior interesse no desenvolvimento Front-end</h3>
 <br/>
 <img align="right" alt="Coding" width="500" src="https://i.pinimg.com/originals/72/0c/c4/720cc43d757ee638ad5054a05220fafe.gif">
+
 - 🌱 Atualmente estou aprimorando minhas habilidades em estilização pôr meio do <strong>Bootstrap</strong>
 
 - 💬 Pergunte-me sobre **qualquer coisa, amo ajudar pessoas.**
