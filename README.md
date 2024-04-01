@@ -12,7 +12,7 @@
   
 - ⚡ O que não pode faltar em minha vida: **Café, calistenia, jogos online e futebol**
   
-- 📫 Por favor, envie um email para **zazac3179@gmail.com** para me encontrar.
+- 📫 Por favor, envie um email para **zazac3179@gmail.com** ou mande mensagem para o número **(74)98151-0614** para me encontrar.
 
 - 📄Veja meu Curriculum [clicando aqui  ](https://gitconnected.com/isaque-s-0liveira/resume) para mais informações.
 
