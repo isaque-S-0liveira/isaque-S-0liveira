@@ -1,6 +1,6 @@
 <h1 align="center">Olá 👋, me chamo Isaque Oliveira</h1>
 <br/>
-<h3 align="center">Sou um desenvolvedor full stack em inicio de carreira, com maior interesse no desenvolvimento Front-end</h3>
+<h3 align="center">Sou um desenvolvedor full stack</h3>
 <br/>
 <img align="right" alt="Coding" width="500" src="https://i.pinimg.com/originals/72/0c/c4/720cc43d757ee638ad5054a05220fafe.gif">
 
