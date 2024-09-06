@@ -7,7 +7,7 @@
 
 <div align="left">
   
-  - 🌱 Atualmente, estou estudando **UX** para aprimorar minhas habilidades em criar interfaces mais intuitivas e melhorando minhas técnicas de estilização com **Bootstrap**.
+  - 🌱 Atualmente, estou estudando **UX design** para aprimorar minhas habilidades em criar interfaces mais intuitivas e melhorando minhas técnicas de estilização com **Bootstrap**.
   <br/>
 
   - 💬 Sou movido pela curiosidade e adoro aprender novas tecnologias, sempre buscando maneiras de aplicar esses conhecimentos em soluções práticas.
