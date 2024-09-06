@@ -1,24 +1,28 @@
 ##
 <h1 align="center">Olá 👋, me chamo Isaque Oliveira</h1>
 <br/>
-<h3 align="center">Sou um desenvolvedor full stack</h3>
+<h3 align="center">Desenvolvedor Full Stack apaixonado por tecnologia e inovação</h3>
 <br/>
-<img align="right" alt="Coding" width="500" src="https://i.pinimg.com/originals/72/0c/c4/720cc43d757ee638ad5054a05220fafe.gif">
+<img align="right" alt="Coding" width="500" height="500" src="https://i.pinimg.com/originals/72/0c/c4/720cc43d757ee638ad5054a05220fafe.gif">
 
 <div align="left">
   
-  - 🌱 Atualmente, estou estudando UX e aprimorando minhas habilidades de estilização com o Bootstrap.
+  - 🌱 Atualmente, estou estudando **UX** para aprimorar minhas habilidades em criar interfaces mais intuitivas e melhorando minhas técnicas de estilização com **Bootstrap**.
+  <br/>
+
+  - 💬 Sou movido pela curiosidade e adoro aprender novas tecnologias, sempre buscando maneiras de aplicar esses conhecimentos em soluções práticas.
+  <br/>
+
+  - 🎯 Meu foco é transformar problemas complexos em soluções simples e eficientes, sempre com o usuário em mente.
   <br/>
   
-  - 💬 Pergunte-me sobre <strong>qualquer coisa, amo ajudar pessoas.</strong>
+  - 💼 Estou em constante evolução na minha carreira de desenvolvedor, buscando novos desafios e oportunidades de crescimento.
   <br/>
   
-  - 💼 Busco constantemente conhecimento para evoluir na minha carreira de desenvolvedor.
-  <br/>
-  
-  - 📄Veja meu Curriculum <a href="https://gitconnected.com/isaque-s-0liveira/resume"><strong>clicando aqui</strong></a> para mais informações.
+  - 📄 Você pode conferir mais detalhes sobre minhas experiências e habilidades no meu <a href="https://gitconnected.com/isaque-s-0liveira/resume"><strong>Currículo</strong></a>.
   <br/>
 </div>
+
 
 <br clear="right">
 
