@@ -7,7 +7,7 @@
 
 <div align="left">
   
-  - 🌱 Atualmente, estou estudando **UX design** para aprimorar minhas habilidades em criar interfaces mais intuitivas e melhorando minhas técnicas de estilização com **Bootstrap**.
+  - 🌱 Atualmente cursando Bacharelado em Engenharia de Software no <a href="https://www.infnet.edu.br/infnet/sobre/"> Instituto Infnet</a>.
   <br/>
 
   - 💬 Sou movido pela curiosidade e adoro aprender novas tecnologias, sempre buscando maneiras de aplicar esses conhecimentos em soluções práticas.
